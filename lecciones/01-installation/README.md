@@ -18,8 +18,8 @@ Este repositorio proporciona un entorno de desarrollo preconfigurado para el Car
 3. **Clona el repositorio** – Ejecuta el siguiente comando en tu terminal:
 
  ```bash
-    git clone https://github.com/iohkedu/cdw-azteca.git
-    cd cdw-azteca
+    git clone https://github.com/iohkedu/cdw-azteca2025.git
+    cd cdw-azteca2025
  ```
 
 4. **Instalar  [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)** - Necesitas instalar esta extensión en VS Code para trabajar con el contenedor Docker.

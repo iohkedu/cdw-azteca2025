@@ -1,0 +1,13 @@
+{
+  "name": "CDW Env",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "environment",
+  "workspaceFolder": "/workspace",
+  "shutdownAction": "stopCompose",
+  "customizations": {
+    "vscode": {
+      "extensions": ["TxPipe.aiken"],
+      "settings": {}
+    }
+  }
+}
